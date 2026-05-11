@@ -35,7 +35,7 @@ function MyCity() {
         <div className="city-content">
           <img
             className="city-image"
-            src="/src/image/05berdychiv-monastery-fortress-aireal-view1a-1200x800.jpg"
+            src="/image/05berdychiv-monastery-fortress-aireal-view1a-1200x800.jpg"
             alt="Бердичів"
           />
 
@@ -72,7 +72,7 @@ function MyCity() {
         <div className="city-content">
           <img
             className="city-image"
-            src="/src/image/Berd_pivo_phez.jpg"
+            src="/image/Berd_pivo_phez.jpg"
             alt="Бердичівське пиво"
           />
 
