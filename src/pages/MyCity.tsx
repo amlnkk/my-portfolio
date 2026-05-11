@@ -35,7 +35,7 @@ function MyCity() {
         <div className="city-content">
           <img
             className="city-image"
-            src="/image/city.jpg"
+            src={`${import.meta.env.BASE_URL}image/city.jpg`}
             alt="Бердичів"
           />
 
@@ -72,7 +72,7 @@ function MyCity() {
         <div className="city-content">
           <img
             className="city-image"
-            src="/image/beer.jpg"
+            src={`${import.meta.env.BASE_URL}image/beer.jpg`}
             alt="Бердичівське пиво"
           />
 

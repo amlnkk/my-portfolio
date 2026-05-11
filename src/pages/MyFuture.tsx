@@ -9,7 +9,7 @@ function MyFuture() {
         <div className="future-about">
           <img
             className="future-about-img"
-            src="/image/meme.jpg"
+            src={`${import.meta.env.BASE_URL}image/meme.jpg`}
             alt="future"
           />
 

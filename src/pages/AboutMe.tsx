@@ -26,10 +26,7 @@ function AboutMe() {
             </div>
           </div>
 
-          <img
-            className="about-image"
-            src="/image/me.jpg"
-          />
+          <img className="about-image" src={`${import.meta.env.BASE_URL}image/me.jpg`} />
         </div>
       </div>
 
