@@ -28,7 +28,7 @@ function AboutMe() {
 
           <img
             className="about-image"
-            src="/image/photo_2026-05-10_00-18-04.jpg"
+            src="/image/me.jpg"
           />
         </div>
       </div>

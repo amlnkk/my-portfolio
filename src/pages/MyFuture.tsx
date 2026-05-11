@@ -9,7 +9,7 @@ function MyFuture() {
         <div className="future-about">
           <img
             className="future-about-img"
-            src="/image/photo_2026-05-11_18-12-36.jpg"
+            src="/image/meme.jpg"
             alt="future"
           />
 
